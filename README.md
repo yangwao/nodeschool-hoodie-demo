@@ -14,3 +14,6 @@ create public/index.html
 `hoodie.store.add({name: 'matej', twitter: 'yangwao'})`
 
 `hoodie.store.findAll().then(console.table)`
+
+
+more at https://github.com/hoodiehq/hoodie-camp-tutorial & https://github.com/hoodiehq/hoodie-camp-tutorial

@@ -15,5 +15,10 @@ create public/index.html
 
 `hoodie.store.findAll().then(console.table)`
 
+`hoodie.store.removeAll`
 
-more at https://github.com/hoodiehq/hoodie-camp-tutorial & https://github.com/hoodiehq/hoodie-camp-tutorial
+more at https://github.com/hoodiehq/hoodie-camp-tutorial & https://github.com/hoodiehq/hoodie-camp-tutorialgi
+
+[docs](http://docs.hood.ie/en/latest/api/client/hoodie.html#) 
+
+[hoodie plugins](https://www.npmjs.com/search?q=hoodie-plugin-&page=1&ranking=optimal)
